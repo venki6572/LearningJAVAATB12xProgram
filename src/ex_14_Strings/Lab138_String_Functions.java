@@ -4,7 +4,6 @@ public class Lab138_String_Functions {
 
     public static void  main(String[] args){
         char c = 'A';
-
         String s1 = "ABCD";
         System.out.println(c);
         System.out.println(s1);
